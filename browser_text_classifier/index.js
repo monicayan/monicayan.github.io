@@ -8,7 +8,12 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Notwithstanding these necessary deductions, however, it was found practicable to assemble, by the end of May, an efficient force of not less than 500,000 men, upon different points contiguous to the French frontier, with all the supplies necessary for the prosecution of a vigorous Campaign.',
+      'The openly declared project of the Allied Sovereigns to employ all
+their means, and combine all their efforts, towards the accomplishment
+of the complete overthrow of the resuscitated power of NAPOLEON, with
+whom they had determined, thenceforth, to enter into neither truce
+nor treaty, was singularly favoured by the circumstance of their
+Armies being still retained upon a war establishment.',
   'example2':
       'The panegyrist of Philip Augustus asserts that John’s sudden dash into the lands south of Périgord was prompted by dread of Philip, who, being desirous to meet him in the field, had hurried to the Poitevin border, and was preparing to cut him off from his fleet.',
   'example3':
