@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'Notwithstanding these necessary deductions, however, it was found practicable to assemble, by the end of May, an efficient force of not less than 500,000 men, upon different points contiguous to the French frontier, with all the supplies necessary for the prosecution of a vigorous Campaign.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'The panegyrist of Philip Augustus asserts that John’s sudden dash into the lands south of Périgord was prompted by dread of Philip, who, being desirous to meet him in the field, had hurried to the Poitevin border, and was preparing to cut him off from his fleet.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'It has been remarked that in the earliest Stone Age there is no trace of either idols or images; the art of this period being entirely profane. In the later Stone Age, however, entirely different ideas seem to have gained the ascendancy, for a majority of the objects of plastic art so far discovered have a religious significance. This has evidently proceeded from the conception that every image of a living object absorbs something of the essence of the object itself, and this conception, while a primitive one, still presupposes a certain degree of development.'      
 };
 
 function status(statusText) {
